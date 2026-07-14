@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Clockniwise_SMP.aternos.me",
+    "port": 53739,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
